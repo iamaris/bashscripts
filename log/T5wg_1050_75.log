@@ -1,0 +1,22 @@
+-------------------- Asymptotic --------------------
+/bin/sh: unsetenv: command not found
+/bin/sh: setenv: command not found
+/bin/sh: setenv: command not found
+/bin/sh: setenv: command not found
+>>> including systematics
+>>> method used to compute upper limit is Asymptotic
+>>> Using OpenSSL to get a really random seed 
+>>> Used OpenSSL to get a really random seed -2123033525
+Computing limit starting from observation
+Will compute expected limit(s) using minimizer Minuit2 with strategy 0 and tolerance 0.01
+Median for expected limits: 2.89844
+Sigma  for expected limits: 1.47882
+
+ -- Asymptotic -- 
+Expected  2.5%: r < 1.3869
+Expected 16.0%: r < 1.9419
+Expected 50.0%: r < 2.8984
+Expected 84.0%: r < 4.4350
+Expected 97.5%: r < 6.6073
+
+Done in 0.00 min (cpu), 0.00 min (real)
